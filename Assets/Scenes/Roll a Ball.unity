@@ -140,7 +140,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 635139784225720750, guid: 22fc8de2745bf694594eeb32532df425, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.55
+      value: 3.22
       objectReference: {fileID: 0}
     - target: {fileID: 635139784225720750, guid: 22fc8de2745bf694594eeb32532df425, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1969,7 +1969,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
